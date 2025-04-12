@@ -19,7 +19,7 @@ We warmly welcome and highly appreciate any form of support!
 
 - **Community engagement** - Found a bug, have a feature request, or ideas for improvements? Please feel free to read our [code of conduct](../CODE_OF_CONDUCT.md) and create an issue on one of the repositories.
 
-- **Developer contribution** - Interested in fixing bugs, adding features, improving documentation, or testing integrations? Check out our [contributing guide](../CONTRIBUTING.md) on how to get started.
+- **Developer contribution** - Interested in fixing bugs, adding functionality, improving documentation, or testing integrations? Check out our [contributing guide](../CONTRIBUTING.md) on how to get started.
 
 - **Business partnership** - Planning to integrate nx Gamepad into your game or platform? We welcome collaborations that ensure compatibility and enhance user experiences across platforms.
 
